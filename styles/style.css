@@ -1,33 +1,75 @@
 header{
-    background-color: grey;
+    background-color: rgba(128, 128, 128, 0.362);
     border-radius: 10px;
     position: fixed;
     width: 98%;
-    height: 8%;
+    height: 60px;
     z-index: 99;
     margin-top: -100px;
     display: flex;
     flex-direction: row;
-    gap: 10px;
-    justify-content: left;
+    justify-content: space-between;
     align-items: center;
-    padding-left: 10px;
+    padding: 0;
+}
+
+.left-side{
+    margin: 0px 0px 0px 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0;;
 }
 
 .name{
+    font-family: Algerian;
     font-size: 20px;
 }
 
-
 .header-logo{
     height: 40px;;
+    padding: 5px;
+    border-radius: 25px;
+    transition: 0.1s;
+    margin: 3px 0 0 0;
 }
+
+.header-logo:hover{
+    background-color: rgba(0,0,255,0.15);
+}
+.right-side{
+    margin: 0px 10px 0px 0px;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.head-button{
+    height: 50px;
+    width: 50px;
+    background-color: rgba(0,0,0,0);
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.head-button:hover{
+    background-color: rgba(0,0,255,0.15);
+    transition: 0.1s;
+}
+
+.linkedin-img,
+.github-img{
+    height: 30px;
+}
+
 
 
 body{
     padding-top: 100px;
     padding-bottom: 1200px;
     background: rgb(165,11,201);
-    background: linear-gradient(90deg, rgba(165,11,201,1) 0%, rgba(244,247,9,1) 100%);
-    font-family: sans-serif
+    background: linear-gradient(360deg, rgb(0, 0, 0) 0%, rgb(0, 38, 161) 100%);
+    font-family: sans-serif;
+    color: white;
 }

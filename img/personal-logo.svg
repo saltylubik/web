@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 950 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1.89275,0,0,1.88864,-547.086,-804.427)">
-        <g transform="matrix(1,0,0,1,109.656,59.4276)">
-            <path d="M681.302,480.572C681.302,417.615 630.299,366.501 567.478,366.501L293.211,366.501C230.39,366.501 179.387,417.615 179.387,480.572C179.387,543.53 230.39,594.644 293.211,594.644L567.478,594.644C630.299,594.644 681.302,543.53 681.302,480.572Z" style="fill:url(#_Linear1);"/>
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.89275,0,0,1.88864,-825.498,-807.839)">
+        <g transform="matrix(0.537502,0,0,0.538672,371.887,507.28)">
+            <circle cx="316.121" cy="48.919" r="196.588" style="fill:url(#_Linear1);"/>
         </g>
-        <g transform="matrix(1,0,0,1,-26.7466,89.5718)">
-            <g transform="matrix(183.333,0,0,183.333,751.87,504.393)">
+        <g transform="matrix(1,0,0,1,113.63,90.3343)">
+            <g transform="matrix(183.333,0,0,183.333,480.809,504.393)">
             </g>
-            <text x="379.116px" y="504.393px" style="font-family:'Algerian', fantasy;font-stretch:extra-condensed;font-size:183.333px;stroke:white;stroke-width:0.32px;">SEIF</text>
+            <text x="379.116px" y="504.393px" style="font-family:'Algerian', fantasy;font-stretch:extra-condensed;font-size:183.333px;stroke:white;stroke-width:0.21px;">S</text>
         </g>
     </g>
     <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(501.915,0,0,228.143,179.387,480.572)"><stop offset="0" style="stop-color:rgb(162,0,210);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(243,255,0);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(393.175,0,0,393.175,119.533,48.9188)"><stop offset="0" style="stop-color:rgb(162,0,210);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(243,255,0);stop-opacity:1"/></linearGradient>
     </defs>
 </svg>
