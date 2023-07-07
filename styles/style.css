@@ -1,0 +1,33 @@
+header{
+    background-color: grey;
+    border-radius: 10px;
+    position: fixed;
+    width: 98%;
+    height: 8%;
+    z-index: 99;
+    margin-top: -100px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: left;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.name{
+    font-size: 20px;
+}
+
+
+.header-logo{
+    height: 40px;;
+}
+
+
+body{
+    padding-top: 100px;
+    padding-bottom: 1200px;
+    background: rgb(165,11,201);
+    background: linear-gradient(90deg, rgba(165,11,201,1) 0%, rgba(244,247,9,1) 100%);
+    font-family: sans-serif
+}
